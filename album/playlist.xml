@@ -27,21 +27,24 @@
         </track>
 
         <track>
+            <location>mp3/07_bat_surfing.mp3</location>
+            <title>07_bat_surfing</title>
+        </track>
+
+        <track>
             <location>mp3/02_drudge_judy.mp3</location>
             <title>02_drudge_judy</title>
         </track>
 
-        <track>
-            <location>mp3/05_velveeta_sea.mp3</location>
-            <title>05_velveeta_sea</title>
-        </track>
+
         <track>
             <location>mp3/06_torture_report.mp3</location>
             <title>06_torture_report</title>
         </track>
+        
         <track>
-            <location>mp3/07_bat_surfing.mp3</location>
-            <title>07_bat_surfing</title>
+            <location>mp3/05_velveeta_sea.mp3</location>
+            <title>05_velveeta_sea</title>
         </track>
 
         <track>
