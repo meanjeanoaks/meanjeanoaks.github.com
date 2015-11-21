@@ -8,6 +8,11 @@
 
     <trackList>
         <track>
+            <location>mp3/08_rpc.mp3</location>
+            <title>08_rpc</title>
+        </track>
+        
+        <track>
             <location>mp3/01_horse_eyes.mp3</location>
             <title>01_horse_eyes</title>
         </track>
@@ -35,10 +40,7 @@
             <location>mp3/07_bat_surfing.mp3</location>
             <title>07_bat_surfing</title>
         </track>
-        <track>
-            <location>mp3/08_rpc.mp3</location>
-            <title>08_rpc</title>
-        </track>
+
         <track>
             <location>mp3/09_east_la.mp3</location>
             <title>09_east_la</title>
