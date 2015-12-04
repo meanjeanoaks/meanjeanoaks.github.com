@@ -32,6 +32,11 @@
         </track>
         
         <track>
+            <location>mp3/09_east_la.mp3</location>
+            <title>09_east_la</title>
+        </track>
+
+        <track>
             <location>mp3/black-label-special.mp3</location>
             <title>black-label-special</title>
         </track>        
@@ -54,10 +59,6 @@
         </track>
 
 
-        <track>
-            <location>mp3/09_east_la.mp3</location>
-            <title>09_east_la</title>
-        </track>
         
     </trackList>
 </playlist>
