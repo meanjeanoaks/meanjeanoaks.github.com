@@ -30,7 +30,15 @@
             <location>mp3/04_bottm.mp3</location>
             <title>04_bottm</title>
         </track>
-
+        
+        <track>
+            <location>mp3/black-label-special.mp3</location>
+            <title>black-label-special</title>
+        </track>        
+        <track>
+            <location>mp3/05_velveeta_sea.mp3</location>
+            <title>05_velveeta_sea</title>
+        </track>
         <track>
             <location>mp3/07_bat_surfing.mp3</location>
             <title>07_bat_surfing</title>
@@ -44,14 +52,7 @@
             <location>mp3/06_torture_report.mp3</location>
             <title>06_torture_report</title>
         </track>
-        <track>
-            <location>mp3/black-label-special.mp3</location>
-            <title>black-label-special</title>
-        </track>        
-        <track>
-            <location>mp3/05_velveeta_sea.mp3</location>
-            <title>05_velveeta_sea</title>
-        </track>
+
 
         <track>
             <location>mp3/09_east_la.mp3</location>
