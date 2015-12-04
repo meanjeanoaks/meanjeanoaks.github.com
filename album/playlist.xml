@@ -21,9 +21,10 @@
             <location>mp3/03_stna.mp3</location>
             <title>03_stna</title>
         </track>
+
         <track>
-            <location>mp3/black-label-special.mp3</location>
-            <title>black-label-special</title>
+            <location>mp3/chandaleer.mp3</location>
+            <title>chandaleer</title>
         </track>
         <track>
             <location>mp3/04_bottm.mp3</location>
@@ -39,13 +40,14 @@
             <location>mp3/02_drudge_judy.mp3</location>
             <title>02_drudge_judy</title>
         </track>
-
-
         <track>
             <location>mp3/06_torture_report.mp3</location>
             <title>06_torture_report</title>
         </track>
-        
+        <track>
+            <location>mp3/black-label-special.mp3</location>
+            <title>black-label-special</title>
+        </track>        
         <track>
             <location>mp3/05_velveeta_sea.mp3</location>
             <title>05_velveeta_sea</title>
