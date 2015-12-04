@@ -16,26 +16,28 @@
             <location>mp3/01_horse_eyes.mp3</location>
             <title>01_horse_eyes</title>
         </track>
-
-        <track>
-            <location>mp3/03_stna.mp3</location>
-            <title>03_stna</title>
-        </track>
-
-<!--         <track>
-            <location>mp3/chandaleer.mp3</location>
-            <title>chandaleer</title>
-        </track> -->
         <track>
             <location>mp3/04_bottm.mp3</location>
             <title>04_bottm</title>
         </track>
-
+        <track>
+            <location>mp3/03_stna.mp3</location>
+            <title>03_stna</title>
+        </track>
+<!-- <track>
+            <location>mp3/chandaleer.mp3</location>
+            <title>chandaleer</title>
+        </track> -->
         <track>
             <location>mp3/09_east_la.mp3</location>
             <title>09_east_la</title>
         </track>
 
+
+        <track>
+            <location>mp3/07_bat_surfing.mp3</location>
+            <title>07_bat_surfing</title>
+        </track>
         <track>
             <location>mp3/black-label-special.mp3</location>
             <title>black-label-special</title>
@@ -52,10 +54,7 @@
             <location>mp3/02_drudge_judy.mp3</location>
             <title>02_drudge_judy</title>
         </track>
-        <track>
-            <location>mp3/07_bat_surfing.mp3</location>
-            <title>07_bat_surfing</title>
-        </track>
+
 
         
     </trackList>
