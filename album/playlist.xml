@@ -24,7 +24,7 @@
             <location>mp3/03_stna.mp3</location>
             <title>03_stna</title>
         </track>
-<!-- <track>
+        <!-- <track>
             <location>mp3/chandaleer.mp3</location>
             <title>chandaleer</title>
         </track> -->
@@ -33,11 +33,16 @@
             <title>09_east_la</title>
         </track>
 
-
+<!-- SIDE SWITCH -->
         <track>
             <location>mp3/07_bat_surfing.mp3</location>
             <title>07_bat_surfing</title>
         </track>
+        <track>
+            <location>mp3/02_drudge_judy.mp3</location>
+            <title>02_drudge_judy</title>
+        </track>
+
         <track>
             <location>mp3/black-label-special.mp3</location>
             <title>black-label-special</title>
@@ -50,12 +55,6 @@
             <location>mp3/06_torture_report.mp3</location>
             <title>06_torture_report</title>
         </track>
-        <track>
-            <location>mp3/02_drudge_judy.mp3</location>
-            <title>02_drudge_judy</title>
-        </track>
 
-
-        
     </trackList>
 </playlist>
