@@ -42,7 +42,14 @@ social:
     share_title: ?t=
     share_link: "&amp;u="
 
-  - icon:	github
+  - icon: instagram
+    url:  https://www.instagram.com/meanjeanoaks
+    desc: Instagram
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	github
 #    url:	https://github.com/dirkfabisch
 #    desc:	Fork me on github
 #    share_url:
