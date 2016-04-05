@@ -49,6 +49,14 @@ social:
     share_title:
     share_link:
 
+  - icon:  spotify
+    url: https://play.spotify.com/artist/7fdNgYNzy6a4HcBTgtxNH5
+    desc:  Spotify
+    share_url:
+    share_title:
+    share_link:
+    target: '_blank'
+
 #  - icon:	github
 #    url:	https://github.com/dirkfabisch
 #    desc:	Fork me on github
