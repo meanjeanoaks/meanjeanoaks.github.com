@@ -8,52 +8,48 @@
 
     <trackList>
         <track>
-            <location>mp3/08_rpc.mp3</location>
-            <title>08_rpc</title>
+            <location>mp3/01_Horses_Eyes.mp3</location>
+            <title>01_Horses_Eyes.mp3</title>
         </track>
 
         <track>
-            <location>mp3/01_horse_eyes.mp3</location>
-            <title>01_horse_eyes</title>
+            <location>mp3/02_Stna.mp3</location>
+            <title>02_Stna.mp3</title>
         </track>
         <track>
-            <location>mp3/04_bottm.mp3</location>
-            <title>04_bottm</title>
+            <location>mp3/03_Botmm.mp3</location>
+            <title>03_Botmm.mp3</title>
         </track>
         <track>
-            <location>mp3/03_stna.mp3</location>
-            <title>03_stna</title>
+            <location>mp3/04_Bat_Surfing.mp3</location>
+            <title>04_Bat_Surfing.mp3</title>
         </track>
-        <!-- <track>
-            <location>mp3/chandaleer.mp3</location>
-            <title>chandaleer</title>
-        </track> -->
         <track>
-            <location>mp3/09_east_la.mp3</location>
-            <title>09_east_la</title>
+            <location>mp3/05_RPC.mp3</location>
+            <title>05_RPC.mp3</title>
         </track>
 
 <!-- SIDE SWITCH -->
         <track>
-            <location>mp3/07_bat_surfing.mp3</location>
-            <title>07_bat_surfing</title>
+            <location>mp3/06_Drudge_Judy.mp3</location>
+            <title>06_Drudge_Judy.mp3</title>
         </track>
         <track>
-            <location>mp3/02_drudge_judy.mp3</location>
-            <title>02_drudge_judy</title>
+            <location>mp3/07_East_LA.mp3</location>
+            <title>07_East_LA.mp3</title>
         </track>
 
         <track>
-            <location>mp3/black-label-special.mp3</location>
-            <title>black-label-special</title>
+            <location>mp3/08_Torturt_Report.mp3</location>
+            <title>08_Torturt_Report.mp3</title>
         </track>        
         <track>
-            <location>mp3/05_velveeta_sea.mp3</location>
-            <title>05_velveeta_sea</title>
+            <location>mp3/09_Oakerland_Lounge.mp3</location>
+            <title>09_Oakerland_Lounge.mp3</title>
         </track>
         <track>
             <location>mp3/06_torture_report.mp3</location>
-            <title>06_torture_report</title>
+            <title>10_Black_Label_Special.mp3</title>
         </track>
 
     </trackList>
