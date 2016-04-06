@@ -57,7 +57,7 @@ social:
     share_link:
     target: '_blank'
 
-  - icon:  bandcamp
+  - icon:  music
     url: https://meanjeanoaks.bandcamp.com
     desc:  bandcamp
     share_url:
