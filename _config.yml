@@ -64,6 +64,7 @@ social:
     share_title:
     share_link:
     target: '_blank'
+    
 #  - icon:	github
 #    url:	https://github.com/dirkfabisch
 #    desc:	Fork me on github
