@@ -8,6 +8,18 @@
 
     <trackList>
         <track>
+            <location>mp3/00_Rugby.mp3</location>
+            <title>Rugby is for Lovers</title>
+        </track>
+        <track>
+            <location>mp3/00_Elves.mp3</location>
+            <title>We Hate Elves, Elves are the Worst</title>
+        </track>
+        <track>
+            <location>mp3/00_Jam5.mp3</location>
+            <title>Jam 5</title>
+        </track>
+        <track>
             <location>mp3/01_Horses_Eyes.mp3</location>
             <title>Horses Eyes</title>
         </track>
