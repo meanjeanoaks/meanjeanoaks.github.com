@@ -1,70 +1,60 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Dewplayer</title>
-
-<!-- Quelques styles CSS -->
-<style type="text/css">
-html {
-  font-family:"Myriad","Myriad Pro",Georgia,Helvetica,Sans-serif;
-  background:url(zdewplayer.jpg) no-repeat bottom right;
-  height:100%;
-  padding:0;
-  margin:0;
-}
-body {
-  height:100%;
-  padding:0;
-  margin:0;
-}
-h1 {
-  color:#eee;
-  padding-top:3em;
-  padding-bottom:2em;
-  margin:0;
-}
-#content {
-  margin-left:15%;
-  width:500px;
-  text-align:center;
-}
-#hint {
-  color:#666;
-  margin-left:15%;
-  width:300px;
-  text-align:left;
-  margin-top:3em;
-}
-ul {
-	text-align:left;
-}
-a {
-	text-decoration:none;
-	color:#369;
-}
-</style>
-
-</head>
-
-<body>
-
-<div id="content">
-	
-	<h1><img src="zdewplayer.png" alt="Dewplayer" /></h1>
-  
-	<ul>
-		<li><a href="index-xhtml.htm">Classic</a></li>
-		<li><a href="index-bubble.htm">Bubble</a></li>
-		<li><a href="index-playlist.htm">Playlist</a></li>
-		<li><a href="index-swfobject.htm">Classic with swfobject</a></li>
-		<li><a href="index-swfobject-js.htm">Classic with swfobject and JavaScript controls</a></li>
-	</ul>
-	
-	<p>Made by <a href="http://www.blup.fr">Dew</a> in <a href="http://www.alsacreations.fr/dewplayer">Alsacreations</a></p>
-
-</div>
+---
+layout: default
+---
 
 
-</body>
-</html>
+<!-- <div class="teaserimage">
+    <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover }})"{% endif %}>
+        Teaser Image
+    </div>
+</div> -->
+
+<header class="blog-header">
+    {% if site.logo %}
+      <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{ site.logo }}')">{{ site.title }}</a>
+    {% endif %}
+    <h1 class="blog-title">Recording</h1>
+    <h2 class="blog-description">{{ site.description }}</h2>
+    <div class="custom-links">
+      {% for social in site.social %}
+        {% if social.url %}
+        <!--     <a class="icon-{{ social.icon }}" href="{{ social.url }}">
+              <i class="fa fa-{{ social.icon }}"></i>
+            </a> -->
+            <!-- &nbsp;&nbsp;·&nbsp;&nbsp; -->
+        {% endif %}
+      {% endfor %}
+
+
+
+
+  <object type="application/x-shockwave-flash" data="dewplayer-playlist.swf" width="260" height="240" id="dewplayer" name="dewplayer">
+    <param name="wmode" value="transparent" />
+    <param name="movie" value="dewplayer-playlist.swf" />
+    <param name="flashvars" value="showtime=true&autoreplay=true&xml=playlist.xml" />
+  </object>
+
+    </div>
+</header>
+
+<main class="content" role="main">
+<center>
+<!-- PilotSuits. are currently working on and recording in Brooklyn and Rochester, NY (Spring 2015).</br>
+ -->
+<a href='https://github.com/pilotsuits/pilotsuits.github.com/blob/master/recording/readme.md' target='_blank'>Link to GitHub To Do List</a></br>
+<!-- <h3>Spreadsheet:</h3> -->
+<iframe src="https://docs.google.com/spreadsheets/d/1dgt4f1yjr1nK7tGIU7tz8N9wfsyKA5CxSix_k-tIp8Y/pubhtml?widget=true&amp;headers=true" width='100%' height='600'></iframe></br>
+<a href='https://docs.google.com/spreadsheets/' target='_blank'>Link to Spreadsheet in Google Docs</a>
+
+
+
+</center>
+    
+
+
+    </div>
+
+
+
+
+</main>
