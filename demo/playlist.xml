@@ -19,6 +19,7 @@
             <location>mp3/00_Jam5.mp3</location>
             <title>Jam 5</title>
         </track>
+<!-- 
         <track>
             <location>mp3/01_Horses_Eyes.mp3</location>
             <title>Horses Eyes</title>
@@ -40,8 +41,6 @@
             <location>mp3/05_RPC.mp3</location>
             <title>RPC</title>
         </track>
-
-<!-- SIDE SWITCH -->
         <track>
             <location>mp3/06_Drudge_Judy.mp3</location>
             <title>Drudge Judy</title>
@@ -63,6 +62,7 @@
             <location>mp3/10_Black_Label_Special.mp3</location>
             <title>Black Label Special</title>
         </track>
+ -->
 
     </trackList>
 </playlist>
